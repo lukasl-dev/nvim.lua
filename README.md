@@ -1,1 +1,1 @@
-# init.lua
+# nvim.lua
